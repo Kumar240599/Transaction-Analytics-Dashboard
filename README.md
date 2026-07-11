@@ -1,5 +1,5 @@
 # Transaction-Analytics-Dashboard
-Extracted the finacial trasactions and customers data transactions.csv and customers.csv and performed Data Cleansing in Power Query. 
+Extracted the finacial trasactions and customers data from transactions.csv and customers.csv and performed Data Cleansing in Power Query. 
 Then analyzed financial transactions with different Dynamic metrics by slicing and drilldown feature.
 Dashboard Link: https://app.powerbi.com/groups/me/reports/79748f45-740f-4918-8dc4-4d714699749c/b56d5b9fb4413d2fa538?experience=power-bi
 
